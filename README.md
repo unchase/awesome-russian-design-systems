@@ -40,9 +40,14 @@
 1. ![GitHub](img/favicons/github.com.png) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI) - библиотека компонентов
 1. ![](https://favicon.yandex.net/favicon/vc.ru) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 
+## [![](https://favicon.yandex.net/favicon/ivi.ru)](https://www.ivi.ru/) [IVI](https://www.ivi.ru/)
 
+<sup>[Содержание](#содержание)</sup>
 
+**Название ДС:** [Ссылка](https://design.ivi.ru/)
 
+:book: **Дополнительные ссылки и материалы:**
+1. [Статьи и доклады](https://design.ivi.ru/links/)
 
 ---
 
