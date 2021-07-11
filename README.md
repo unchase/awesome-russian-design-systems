@@ -25,7 +25,6 @@
 :book: **Дополнительные ссылки и материалы:** 
 1. ![GitHub](img/favicons/github.com.png) [arui-feather](https://github.com/alfa-laboratory/arui-feather)
 1. ![](https://favicon.yandex.net/favicon/digital.alfabank.ru) [Цифровые продукты Альфа-Банка](https://digital.alfabank.ru/designsystem)
-1. ![](https://favicon.yandex.net/favicon/digital.alfabank.ru) [Принципы дизайн-системы](https://digital.alfabank.ru/principles)
 1. ![YouTube](img/favicons/youtube.com.png) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)
 1. ![YouTube](img/favicons/youtube.com.png) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
 
