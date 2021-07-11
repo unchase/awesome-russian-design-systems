@@ -59,6 +59,24 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/kontur.ru)]() [Контур](https://kontur.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Контур](img/design-systems/kontur.png)](https://guides.kontur.ru/)
+
+**Название ДС:** [КонтурГайды](https://guides.kontur.ru/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/skbkontur/retail-ui) [React UI](https://github.com/skbkontur/retail-ui) - библиотека компонентов
+1. [Библиотека ReactUI](https://tech.skbkontur.ru/react-ui/)
+1. [Продуктовый дизайн в Контуре](https://tech.kontur.ru/design)
+1. [![Medium.com](https://favicon.yandex.net/favicon/medium.com)](https://medium.com/designkontur/скетч-библиотека-для-работы-19a692ea959f) [Скетч-библиотека для работы](https://medium.com/designkontur/скетч-библиотека-для-работы-19a692ea959f)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=g6LJkJmBG6M) [Владимир Дзех, Дизайн-система тридцати продуктов для бизнеса](https://www.youtube.com/watch?v=g6LJkJmBG6M)
+1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/255451-kak-my-v-konture-menyali-firmennyy-stil) [Как мы в Контуре меняли фирменный стиль](https://vc.ru/design/255451-kak-my-v-konture-menyali-firmennyy-stil)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
 <sup>[Содержание](#содержание)</sup>
