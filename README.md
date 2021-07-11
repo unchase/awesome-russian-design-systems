@@ -27,6 +27,7 @@
 1. [![](https://favicon.yandex.net/favicon/digital.alfabank.ru)](https://digital.alfabank.ru/designsystem) [Цифровые продукты Альфа-Банка](https://digital.alfabank.ru/designsystem)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=2Mp6DD-gUjU) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=n8WggChqu0s) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/alfa/blog/492010/) [Тёмная сторона дизайн-системы и что с ней делать](https://habr.com/ru/company/alfa/blog/492010/)
 
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
