@@ -213,6 +213,19 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/qiwi.com)](https://qiwi.com/) [QIWI](https://qiwi.com/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![QIWI](img/design-systems/qiwi.png)](http://qiwiguide.ru/)
+
+**Название ДС:** [QIWI Guide](http://qiwiguide.ru/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/qiwi/blog/433780/) [Переход от UI-кита к дизайн-системе в QIWI](https://habr.com/ru/company/qiwi/blog/433780/)
+
+---
+
 ## Контрибьюторы
 
 <sup>[Содержание](#содержание)</sup>
