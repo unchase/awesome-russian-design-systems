@@ -195,6 +195,19 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/delivery-club.ru)](https://www.delivery-club.ru/moscow) [Delivery Club](https://www.delivery-club.ru/moscow)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Delivery Club](img/design-systems/deliveryclub.png)](http://delivery-club.design/)
+
+**Название ДС:** [Walrus Kit](http://delivery-club.design/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=FqQaV0A6GGc) [Реализуем работу со шрифтами для дизайн-системы | Скринкасты | Delivery Club | #1](https://www.youtube.com/watch?v=FqQaV0A6GGc)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/discord.com)](https://discord.com/) [Discord](https://discord.com/)
 
 <sup>[Содержание](#содержание)</sup>
