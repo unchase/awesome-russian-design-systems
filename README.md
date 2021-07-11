@@ -202,7 +202,7 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-[![Ozon](img/design-systems/mediakit.png)](https://corp.ozon.ru/mediakit)
+[![Ozon](img/design-systems/ozon.png)](https://corp.ozon.ru/mediakit)
 
 **Название ДС:** [Mediakit](https://corp.ozon.ru/mediakit)
 
