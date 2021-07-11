@@ -92,6 +92,19 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/)](https://www.sberbank.ru/) [Сбербанк](https://www.sberbank.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Сбербанк](img/design-systems/sber.png)](https://www.sberbank.ru/design)
+
+**Название ДС:** [Ссылка](https://www.sberbank.ru/design)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=5vI1mA-fswM) [Сбер – зачем дизайнерам сайт о дизайне. Ярослав Сизов (maildesignfriends)](https://www.youtube.com/watch?v=5vI1mA-fswM)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/tinkoff.ru)](https://www.tinkoff.ru/) [Тинькофф](https://www.tinkoff.ru/)
 
 <sup>[Содержание](#содержание)</sup>
