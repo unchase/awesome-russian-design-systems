@@ -198,6 +198,20 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/ozon.ru)](https://www.ozon.ru/) [Ozon](https://www.ozon.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Ozon](img/design-systems/mediakit.png)](https://corp.ozon.ru/mediakit)
+
+**Название ДС:** [Mediakit](https://corp.ozon.ru/mediakit)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=RYQyA4VmnJo) [Быстрый запуск фичей с Server Driven UI | Александр Свиридов, Ozon](https://www.youtube.com/watch?v=RYQyA4VmnJo)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=NguVmJ3HyrA) [Backend-Driven UI – Алексей Новиков](https://www.youtube.com/watch?v=NguVmJ3HyrA)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/rambler.ru)](https://rambler.ru/) [Rambler Group](https://www.rambler.ru/)
 
 <sup>[Содержание](#содержание)</sup>
