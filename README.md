@@ -6,7 +6,7 @@
 
 ---
 
-<h5 align="center">Здесь собран список отчесественных дизайн-систем и дополнительных полезных материалов, связанных с ними.</h5>
+<h5 align="center">Здесь собран список отчесественных и русскоязычных дизайн-систем, а также дополнительных материалов, связанных с ними.</h5>
 
 ---
 
@@ -120,6 +120,19 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/rt.ru)](https://rt.ru/) [Ростелеком](https://rt.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Ростелеком](img/design-systems/rostelekom.png)](https://design.rt.ru/preview)
+
+**Название ДС:** [Ссылка](https://design.rt.ru/preview)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/rostelecom/blog/522596/) [Свободы и ограничения дизайн-систем](https://habr.com/ru/company/rostelecom/blog/522596/)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/sberbank.ru)](https://www.sberbank.ru/) [Сбербанк](https://www.sberbank.ru/)
 
 <sup>[Содержание](#содержание)</sup>
@@ -164,6 +177,19 @@
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/yoomoney/blog/341028/) [Прототипирование на продакшн-технологиях](https://habr.com/ru/company/yoomoney/blog/341028/)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/yandex/blog/276035/) [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/ru/company/yandex/blog/276035/)
 1. [БЭМ](https://yandex.ru/dev/bem/)
+
+---
+
+## [![](https://favicon.yandex.net/favicon/discord.com)](https://discord.com/) [Discord](https://discord.com/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Discord](img/design-systems/discord.png)](https://discord.com/brand-new/branding)
+
+**Название ДС:** [Ссылка](https://discord.com/brand-new/branding)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [Новый облик к нашему 6-му дню рождения](https://support.discord.com/hc/ru/articles/1500009438682-Новый-облик-к-нашему-6-му-дню-рождения)
 
 ---
 
