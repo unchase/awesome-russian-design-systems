@@ -91,6 +91,19 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/mts.ru)](https://mts.ru/) [МТС](https://mts.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![МТС](img/design-systems/mts.png)](https://moskva.mts.ru/about/media-centr/mediabank/korporativnyj-stil)
+
+**Название ДС:** [Ссылка](https://moskva.mts.ru/about/media-centr/mediabank/korporativnyj-stil)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=mKJWT2yKgOU) [Егорова Дарья, МТС – Метод построения экосистемы продуктов](https://www.youtube.com/watch?v=mKJWT2yKgOU)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
 <sup>[Содержание](#содержание)</sup>
