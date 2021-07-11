@@ -16,7 +16,7 @@
 
 |Компания|Название (ссылка)|GitHub|Примечание|Материалы|
 |:------:|:---------------:|:----:|:--------:|:-------:|
-|[Альфа-Банк](https://alfabank.ru/)|[Feather](https://alfabank.ru/about/logo/)|-|-|[LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)<br>[Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)|
+|[Альфа-Банк](https://alfabank.ru/)|[Feather](https://design.alfabank.ru/)|-|-|![YouTube](img/favicons/youtube.com.png) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)<br>![YouTube](img/favicons/youtube.com.png) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)|
 
 
 
