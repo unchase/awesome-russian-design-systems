@@ -31,7 +31,7 @@
 
 ---
 
-## [АО «БАРС Груп»](https://bars.group/)
+## [![](https://favicon.yandex.net/favicon/bars.group)](https://bars.group/) [АО «БАРС Груп»](https://bars.group/)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -40,7 +40,7 @@
 **Название ДС:** [BIUX](https://design.bars.group/)
 
 :book: **Дополнительные ссылки и материалы:**
-1. [![](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup) [Разработка своей дизайн-системы. Опыт «БАРС Груп»](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup)
+1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup) [Разработка своей дизайн-системы. Опыт «БАРС Груп»](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup)
 
 ---
 
@@ -54,7 +54,7 @@
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/govdesign) [govdesign](https://github.com/govdesign)
-1. [Дмитрий Игошин — Дизайн-система России](https://www.facebook.com/watch/?v=1248753351897076)
+1. [![Facebook](https://favicon.yandex.net/favicon/facebook.com)](https://www.facebook.com/watch/?v=1248753351897076) [Дмитрий Игошин — Дизайн-система России](https://www.facebook.com/watch/?v=1248753351897076)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=Yylbpzy7JHI) [Дизайн-стандарт.](https://www.youtube.com/watch?v=Yylbpzy7JHI)
 
 ---
@@ -69,7 +69,7 @@
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/Raiffeisen-DGTL/ViennaUI) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI) - библиотека компонентов
-1. [![](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
+1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/raiffeisenbank/news/t/560180/) [Design System Community Meetup 3/06: видео и материалы встречи](https://habr.com/ru/company/raiffeisenbank/news/t/560180/)
 
 ---
@@ -116,6 +116,7 @@
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/rambler-digital-solutions/rambler-ui) [Rambler UI](https://github.com/rambler-digital-solutions/rambler-ui) - библиотека компонентов
 1. [![](https://favicon.yandex.net/favicon/brand.rambler.ru)](https://brand.rambler.ru/) [Бренд Рамблера](https://brand.rambler.ru/)
+1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/28213-razrabotka-edinoy-dizayn-sistemy-opyt-ramblera) [Разработка единой дизайн-системы — опыт «Рамблера»](https://vc.ru/design/28213-razrabotka-edinoy-dizayn-sistemy-opyt-ramblera)
 
 ---
 
