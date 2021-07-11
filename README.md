@@ -12,15 +12,34 @@
 
 ## <a name="содержание"></a>Содержание
 
-## 
+---
 
-|Компания|Название (ссылка)|GitHub|Примечание|Материалы|
-|:------:|:---------------:|:----:|:--------:|:-------:|
-|[Альфа-Банк](https://alfabank.ru/)|![Logo](img/design-systems/vienna.webp) [Feather](https://design.alfabank.ru/)|[arui-feather](https://github.com/alfa-laboratory/arui-feather)|[Принципы дизайн-системы](https://digital.alfabank.ru/principles)|![YouTube](img/favicons/youtube.com.png) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)<br>![YouTube](img/favicons/youtube.com.png) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)|
-|[Райффайзенбанк](https://www.raiffeisen.ru/)|[Vienna](https://raif-brand.ru/)|![GitHub](img/favicons/github.com.png) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI)|Распространяется в open-source в виде React-компонентов.|[Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)|
-||||||
-||||||
-||||||
+## [Альфа-Банк](https://alfabank.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+**Название ДС:** [Feather](https://design.alfabank.ru/)
+
+![GitHub](img/favicons/github.com.png) **GitHub:** [arui-feather](https://github.com/alfa-laboratory/arui-feather)
+
+**Дополнительные метериалы**:
+1. [Принципы дизайн-системы](https://digital.alfabank.ru/principles)
+2. ![YouTube](img/favicons/youtube.com.png) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)
+3. ![YouTube](img/favicons/youtube.com.png) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
+
+## [Райффайзенбанк](https://www.raiffeisen.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+![Vienna](img/design-systems/vienna.webp)
+
+**Название ДС:** [Vienna](https://raif-brand.ru/)
+
+![GitHub](img/favicons/github.com.png) **GitHub:** [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI)
+
+**Дополнительные метериалы**:
+1. [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
+
 
 
 
