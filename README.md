@@ -20,12 +20,12 @@
 
 **Название ДС:** [Feather](https://design.alfabank.ru/)
 
-![GitHub](img/favicons/github.com.png) **GitHub:** [arui-feather](https://github.com/alfa-laboratory/arui-feather)
-
-**Дополнительные метериалы**:
+**Дополнительные ссылки:** 
+1. ![GitHub](img/favicons/github.com.png) [arui-feather](https://github.com/alfa-laboratory/arui-feather)
+1. ![](https://favicon.yandex.net/favicon/digital.alfabank.ru) [Цифровые продукты Альфа-Банка](https://digital.alfabank.ru/designsystem)
 1. ![](https://favicon.yandex.net/favicon/digital.alfabank.ru) [Принципы дизайн-системы](https://digital.alfabank.ru/principles)
-2. ![YouTube](img/favicons/youtube.com.png) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)
-3. ![YouTube](img/favicons/youtube.com.png) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
+1. ![YouTube](img/favicons/youtube.com.png) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)
+1. ![YouTube](img/favicons/youtube.com.png) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
 
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
@@ -35,9 +35,8 @@
 
 **Название ДС:** [Vienna](https://raif-brand.ru/)
 
-![GitHub](img/favicons/github.com.png) **GitHub:** [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI)
-
-**Дополнительные метериалы**:
+**Дополнительные ссылки:**
+1. ![GitHub](img/favicons/github.com.png) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI)
 1. ![](https://favicon.yandex.net/favicon/vc.ru) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 
 
