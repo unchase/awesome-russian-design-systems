@@ -105,7 +105,7 @@
 
 ---
 
-## [![](https://favicon.yandex.net/favicon/)](https://www.gazprom-neft.ru/) [ПАО «Газпром нефть»](https://www.gazprom-neft.ru/)
+## [![](https://favicon.yandex.net/favicon/gazprom-neft.ru)](https://www.gazprom-neft.ru/) [ПАО «Газпром нефть»](https://www.gazprom-neft.ru/)
 
 <sup>[Содержание](#содержание)</sup>
 
