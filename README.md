@@ -29,6 +29,17 @@
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=n8WggChqu0s) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/alfa/blog/492010/) [Тёмная сторона дизайн-системы и что с ней делать](https://habr.com/ru/company/alfa/blog/492010/)
 
+## [АО «БАРС Груп»](https://bars.group/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![АО «БАРС Груп»](img/design-systems/bars.png)](https://design.bars.group/)
+
+**Название ДС:** [BIUX](https://design.bars.group/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup) [Разработка своей дизайн-системы. Опыт «БАРС Груп»](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup)
+
 ## Дизайн Государственных Систем
 
 <sup>[Содержание](#содержание)</sup>
