@@ -51,6 +51,22 @@
 :book: **Дополнительные ссылки и материалы:**
 1. [Статьи и доклады](https://design.ivi.ru/links/)
 
+## [![](https://favicon.yandex.net/favicon/mail.ru)](https://mail.ru/) [Mail.Ru Group](https://mail.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+
+
+**Название ДС:** [Paradigm](https://design.mail.ru/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [UX-стратегия на практике. Часть 1 — Фреймворк](https://jvetrau.com/uxstrategy-1/)
+1. [UX-стратегия на практике. Часть 2 — Продуктовый дизайнер](https://jvetrau.com/uxstrategy-2/)
+1. [UX-стратегия на практике. Часть 3 — Платформенное мышление](https://jvetrau.com/uxstrategy-3/)
+1. [Унификация дизайна: Фреймворк Mail.Ru Group для мобильного веба](https://jvetrau.com/unification-1/)
+1. ![Habr](img/favicons/habr.com.png) [Paradigm — дизайн-система Mail.Ru Group, часть 1: визуальный язык](https://habr.com/ru/company/mailru/blog/333510/)
+1. ![YouTube](img/favicons/youtube.com.png) [Зубанов Костя – Развитие дизайн-системы Mail.ru Paradigm](https://www.youtube.com/watch?v=wocb6FHZ0Bw)
+
 ---
 
 ## Контрибьюторы
