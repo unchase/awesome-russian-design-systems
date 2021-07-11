@@ -92,6 +92,22 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/yandex.ru)](https://yandex.ru/) [Яндекс](https://www.yandex.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Яндекс](img/design-systems/bem.png)](https://ru.bem.info/)
+
+**Название ДС:** [БЭМ](https://ru.bem.info/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/bemdesign) [BEM](https://github.com/bemdesign) - библиотека компонентов
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/yoomoney/blog/341028/) [Прототипирование на продакшн-технологиях](https://habr.com/ru/company/yoomoney/blog/341028/)
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/yandex/blog/276035/) [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/ru/company/yandex/blog/276035/)
+1. [БЭМ](https://yandex.ru/dev/bem/)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/ivi.ru)](https://www.ivi.ru/) [IVI](https://www.ivi.ru/)
 
 <sup>[Содержание](#содержание)</sup>
