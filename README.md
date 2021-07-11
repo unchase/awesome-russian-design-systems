@@ -10,13 +10,7 @@
 
 ---
 
-## <a name="содержание"></a>Содержание
-
----
-
 ## [![](https://favicon.yandex.net/favicon/alfabank.ru)](https://alfabank.ru/) [Альфа-Банк](https://alfabank.ru/)
-
-<sup>[Содержание](#содержание)</sup>
 
 <a href="https://design.alfabank.ru/" target="_blank"><img width="140" height="140" title="arui-feather" src="img/design-systems/feather.svg" /></a>
 
@@ -33,8 +27,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/bars.group)](https://bars.group/) [АО «БАРС Груп»](https://bars.group/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![АО «БАРС Груп»](img/design-systems/buix.png)](https://design.bars.group/)
 
 **Название ДС:** [BIUX](https://design.bars.group/)
@@ -45,8 +37,6 @@
 ---
 
 ## Дизайн Государственных Систем
-
-<sup>[Содержание](#содержание)</sup>
 
 [![Дизайн Государственных Систем](img/design-systems/gov.png)](http://gov.design/)
 
@@ -60,8 +50,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/kontur.ru)]() [Контур](https://kontur.ru/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![Контур](img/design-systems/kontur.png)](https://guides.kontur.ru/)
 
@@ -79,8 +67,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/megafon.ru)](http://megafon.ru/) [Мегафон](http://megafon.ru/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![Мегафон](img/design-systems/megafon.png)](https://ui.megafon.ru/EqR2rxoML8/)
 
 **Название ДС:** [MegaFon React UI](https://ui.megafon.ru/EqR2rxoML8/)
@@ -92,8 +78,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/mts.ru)](https://mts.ru/) [МТС](https://mts.ru/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![МТС](img/design-systems/mts.jpg)](https://moskva.mts.ru/about/media-centr/mediabank/korporativnyj-stil)
 
@@ -108,8 +92,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/gazprom-neft.ru)](https://www.gazprom-neft.ru/) [ПАО «Газпром нефть»](https://www.gazprom-neft.ru/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![ПАО «Газпром нефть»](img/design-systems/consta.png)](https://consta.gazprom-neft.ru/)
 
 **Название ДС:** [Consta](https://consta.gazprom-neft.ru/)
@@ -121,8 +103,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![Vienna](img/design-systems/vienna.webp)](https://raif-brand.ru/)
 
@@ -137,8 +117,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/rt.ru)](https://rt.ru/) [Ростелеком](https://rt.ru/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![Ростелеком](img/design-systems/rostelekom.png)](https://design.rt.ru/preview)
 
 **Название ДС:** [Ссылка](https://design.rt.ru/preview)
@@ -150,8 +128,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/sberbank.ru)](https://www.sberbank.ru/) [Сбербанк](https://www.sberbank.ru/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![Сбербанк](img/design-systems/sber.png)](https://www.sberbank.ru/design)
 
 **Название ДС:** [Ссылка](https://www.sberbank.ru/design)
@@ -162,8 +138,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/tinkoff.ru)](https://www.tinkoff.ru/) [Тинькофф](https://www.tinkoff.ru/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![Тинькофф](img/design-systems/tinkoff.jpeg)](https://taiga-ui.dev/)
 
@@ -181,8 +155,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/yandex.ru)](https://yandex.ru/) [Яндекс](https://www.yandex.ru/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![Яндекс](img/design-systems/bem.png)](https://ru.bem.info/)
 
 **Название ДС:** [БЭМ](https://ru.bem.info/)
@@ -197,8 +169,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/delivery-club.ru)](https://www.delivery-club.ru/moscow) [Delivery Club](https://www.delivery-club.ru/moscow)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![Delivery Club](img/design-systems/deliveryclub.png)](http://delivery-club.design/)
 
 **Название ДС:** [Walrus Kit](http://delivery-club.design/)
@@ -209,8 +179,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/discord.com)](https://discord.com/) [Discord](https://discord.com/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![Discord](img/design-systems/discord.png)](https://discord.com/brand-new/branding)
 
@@ -223,8 +191,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/ivi.ru)](https://www.ivi.ru/) [IVI](https://www.ivi.ru/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![IVI](img/design-systems/ivi.jpeg)](https://design.ivi.ru/)
 
 **Название ДС:** [Ссылка](https://design.ivi.ru/)
@@ -235,8 +201,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/mail.ru)](https://mail.ru/) [Mail.Ru Group](https://mail.ru/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![Mail.Ru Group](img/design-systems/mail.ru.webp)](https://design.mail.ru/)
 
@@ -254,8 +218,6 @@
 
 ## [![](https://favicon.yandex.net/favicon/ozon.ru)](https://www.ozon.ru/) [Ozon](https://www.ozon.ru/)
 
-<sup>[Содержание](#содержание)</sup>
-
 [![Ozon](img/design-systems/ozon.png)](https://corp.ozon.ru/mediakit)
 
 **Название ДС:** [Mediakit](https://corp.ozon.ru/mediakit)
@@ -267,8 +229,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/rambler.ru)](https://rambler.ru/) [Rambler Group](https://www.rambler.ru/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![Rambler Group](img/design-systems/ratio.png)](https://ui-kit.rambler.ru)
 
@@ -282,8 +242,6 @@
 ---
 
 ## [![](https://favicon.yandex.net/favicon/qiwi.com)](https://qiwi.com/) [QIWI](https://qiwi.com/)
-
-<sup>[Содержание](#содержание)</sup>
 
 [![QIWI](img/design-systems/qiwi.png)](http://qiwiguide.ru/)
 
