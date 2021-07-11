@@ -29,7 +29,16 @@
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=n8WggChqu0s) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/alfa/blog/492010/) [Тёмная сторона дизайн-системы и что с ней делать](https://habr.com/ru/company/alfa/blog/492010/)
 
-## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
+## Дизайн Государственных Систем
+
+<sup>[Содержание](#содержание)</sup>
+
+**Название ДС:** [Ссылка](http://gov.design/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/govdesign) [govdesign](https://github.com/govdesign)
+
+## [Дмитрий Игошин — Дизайн-система России](https://www.facebook.com/watch/?v=1248753351897076)
 
 <sup>[Содержание](#содержание)</sup>
 
