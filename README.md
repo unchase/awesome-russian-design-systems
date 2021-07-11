@@ -40,6 +40,7 @@
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/govdesign) [govdesign](https://github.com/govdesign)
 1. [Дмитрий Игошин — Дизайн-система России](https://www.facebook.com/watch/?v=1248753351897076)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=Yylbpzy7JHI) [Дизайн-стандарт.](https://www.youtube.com/watch?v=Yylbpzy7JHI)
 
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
