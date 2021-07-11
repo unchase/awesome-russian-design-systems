@@ -77,6 +77,20 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/megafon.ru)](http://megafon.ru/) [Мегафон](http://megafon.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Мегафон](img/design-systems/megafon.png)](https://ui.megafon.ru/EqR2rxoML8/)
+
+**Название ДС:** [MegaFon React UI](https://ui.megafon.ru/EqR2rxoML8/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/MegafonWebLab/megafon-ui) [MegaFon React UI](https://github.com/MegafonWebLab/megafon-ui) - библиотека компонентов
+1. [![Medium.com](https://favicon.yandex.net/favicon/medium.com)](https://medium.com/@ux.ui.megafon/дизайн-система-мегафона-эпизод-1-процессы-и-инструменты-ab6970d58483) [Дизайн-система МегаФона. Эпизод 1: Процессы и инструменты](https://medium.com/@ux.ui.megafon/дизайн-система-мегафона-эпизод-1-процессы-и-инструменты-ab6970d58483)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
 <sup>[Содержание](#содержание)</sup>
@@ -92,7 +106,7 @@
 
 ---
 
-## [![](https://favicon.yandex.net/favicon/)](https://www.sberbank.ru/) [Сбербанк](https://www.sberbank.ru/)
+## [![](https://favicon.yandex.net/favicon/sberbank.ru)](https://www.sberbank.ru/) [Сбербанк](https://www.sberbank.ru/)
 
 <sup>[Содержание](#содержание)</sup>
 
