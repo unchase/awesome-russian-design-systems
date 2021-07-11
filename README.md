@@ -102,6 +102,7 @@
 :book: **Дополнительные ссылки и материалы:**
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=mKJWT2yKgOU) [Егорова Дарья, МТС – Метод построения экосистемы продуктов](https://www.youtube.com/watch?v=mKJWT2yKgOU)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=TueI6C9P49g) [Дизайн-система как инструмент экосистемы. Дарья Егорова, МТС](https://www.youtube.com/watch?v=TueI6C9P49g)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=_NlKOVsUYDE) [Екатерина Винникова — Дизайн-система МТС —D1e06— MTS Design Community Conference (День 1)](https://www.youtube.com/watch?v=_NlKOVsUYDE)
 
 ---
 
