@@ -95,7 +95,7 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-[![МТС](img/design-systems/mts.png)](https://moskva.mts.ru/about/media-centr/mediabank/korporativnyj-stil)
+[![МТС](img/design-systems/mts.jpg)](https://moskva.mts.ru/about/media-centr/mediabank/korporativnyj-stil)
 
 **Название ДС:** [Ссылка](https://moskva.mts.ru/about/media-centr/mediabank/korporativnyj-stil)
 
