@@ -14,7 +14,7 @@
 
 ---
 
-## [Альфа-Банк](https://alfabank.ru/)
+## [![](https://favicon.yandex.net/favicon/alfabank.ru)](https://alfabank.ru/) [Альфа-Банк](https://alfabank.ru/)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -23,22 +23,22 @@
 ![GitHub](img/favicons/github.com.png) **GitHub:** [arui-feather](https://github.com/alfa-laboratory/arui-feather)
 
 **Дополнительные метериалы**:
-1. [Принципы дизайн-системы](https://digital.alfabank.ru/principles)
+1. ![](https://favicon.yandex.net/favicon/digital.alfabank.ru) [Принципы дизайн-системы](https://digital.alfabank.ru/principles)
 2. ![YouTube](img/favicons/youtube.com.png) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)
 3. ![YouTube](img/favicons/youtube.com.png) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
 
-## [Райффайзенбанк](https://www.raiffeisen.ru/)
+## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
 <sup>[Содержание](#содержание)</sup>
 
-![Vienna](img/design-systems/vienna.webp)
+[![Vienna](img/design-systems/vienna.webp)](https://raif-brand.ru/)
 
 **Название ДС:** [Vienna](https://raif-brand.ru/)
 
 ![GitHub](img/favicons/github.com.png) **GitHub:** [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI)
 
 **Дополнительные метериалы**:
-1. [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
+1. ![](https://favicon.yandex.net/favicon/vc.ru) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 
 
 
