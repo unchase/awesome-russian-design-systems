@@ -92,6 +92,24 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/tinkoff.ru)](https://www.tinkoff.ru/) [Тинькофф](https://www.tinkoff.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Тинькофф](img/design-systems/tinkoff.jpeg)](https://taiga-ui.dev/)
+
+**Название ДС:** [Taiga UI](https://taiga-ui.dev/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/TinkoffCreditSystems/taiga-ui) [Taiga UI](https://github.com/TinkoffCreditSystems/taiga-ui) - библиотека компонентов
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/tinkoff/blog/326782/) [Создание Tinkoff Design System. Первые шаги](https://habr.com/ru/company/tinkoff/blog/326782/)
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/tinkoff/blog/337922/) [Проблемы React UI Kit-а и единой дизайн-системы, о которых вы не знали](https://habr.com/ru/company/tinkoff/blog/337922/)
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/tinkoff/blog/339660/) [Создание Tinkoff Design System. UI Kit, версионирование и витрина компонентов](https://habr.com/ru/company/tinkoff/blog/339660/)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=TiarpReoCAU) [Команда Tinkoff – Есть ли дизайн в Тинькофф?](https://www.youtube.com/watch?v=TiarpReoCAU)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=Jmfa1pCg5a4) [Дизайн-система Tinkoff.ru / Никита Прилепский (Tinkoff.ru)](https://www.youtube.com/watch?v=Jmfa1pCg5a4)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/yandex.ru)](https://yandex.ru/) [Яндекс](https://www.yandex.ru/)
 
 <sup>[Содержание](#содержание)</sup>
