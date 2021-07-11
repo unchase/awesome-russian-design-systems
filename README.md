@@ -20,7 +20,7 @@
 
 **Название ДС:** [Feather](https://design.alfabank.ru/)
 
-**Дополнительные ссылки:** 
+:book: **Дополнительные ссылки и материалы:** 
 1. ![GitHub](img/favicons/github.com.png) [arui-feather](https://github.com/alfa-laboratory/arui-feather)
 1. ![](https://favicon.yandex.net/favicon/digital.alfabank.ru) [Цифровые продукты Альфа-Банка](https://digital.alfabank.ru/designsystem)
 1. ![](https://favicon.yandex.net/favicon/digital.alfabank.ru) [Принципы дизайн-системы](https://digital.alfabank.ru/principles)
@@ -35,7 +35,7 @@
 
 **Название ДС:** [Vienna](https://raif-brand.ru/)
 
-**Дополнительные ссылки:**
+:book: **Дополнительные ссылки и материалы:**
 1. ![GitHub](img/favicons/github.com.png) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI)
 1. ![](https://favicon.yandex.net/favicon/vc.ru) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 
