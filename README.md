@@ -33,7 +33,7 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-[![АО «БАРС Груп»](img/design-systems/bars.png)](https://design.bars.group/)
+[![АО «БАРС Груп»](img/design-systems/buix.png)](https://design.bars.group/)
 
 **Название ДС:** [BIUX](https://design.bars.group/)
 
