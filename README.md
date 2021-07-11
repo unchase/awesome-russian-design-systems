@@ -105,6 +105,20 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/)](https://www.gazprom-neft.ru/) [ПАО «Газпром нефть»](https://www.gazprom-neft.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![ПАО «Газпром нефть»](img/design-systems/consta.png)](https://consta.gazprom-neft.ru/)
+
+**Название ДС:** [Consta](https://consta.gazprom-neft.ru/)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/gazprom-neft/consta-uikit) [Consta](https://github.com/gazprom-neft/consta-uikit) - библиотека компонентов
+1. [Дизайн-система Consta](https://consta-uikit.vercel.app)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
 <sup>[Содержание](#содержание)</sup>
