@@ -44,6 +44,8 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+[![IVI](img/design-systems/ivi.jpeg)](https://design.ivi.ru/)
+
 **Название ДС:** [Ссылка](https://design.ivi.ru/)
 
 :book: **Дополнительные ссылки и материалы:**
