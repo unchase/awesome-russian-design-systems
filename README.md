@@ -29,6 +29,8 @@
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=n8WggChqu0s) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/alfa/blog/492010/) [Тёмная сторона дизайн-системы и что с ней делать](https://habr.com/ru/company/alfa/blog/492010/)
 
+---
+
 ## [АО «БАРС Груп»](https://bars.group/)
 
 <sup>[Содержание](#содержание)</sup>
@@ -39,6 +41,8 @@
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup) [Разработка своей дизайн-системы. Опыт «БАРС Груп»](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup)
+
+---
 
 ## Дизайн Государственных Систем
 
@@ -53,6 +57,8 @@
 1. [Дмитрий Игошин — Дизайн-система России](https://www.facebook.com/watch/?v=1248753351897076)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=Yylbpzy7JHI) [Дизайн-стандарт.](https://www.youtube.com/watch?v=Yylbpzy7JHI)
 
+---
+
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
 <sup>[Содержание](#содержание)</sup>
@@ -66,6 +72,8 @@
 1. [![](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/raiffeisenbank/news/t/560180/) [Design System Community Meetup 3/06: видео и материалы встречи](https://habr.com/ru/company/raiffeisenbank/news/t/560180/)
 
+---
+
 ## [![](https://favicon.yandex.net/favicon/ivi.ru)](https://www.ivi.ru/) [IVI](https://www.ivi.ru/)
 
 <sup>[Содержание](#содержание)</sup>
@@ -76,6 +84,8 @@
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![](https://favicon.yandex.net/favicon/design.ivi.ru)](https://design.ivi.ru/links/) [Статьи и доклады](https://design.ivi.ru/links/)
+
+---
 
 ## [![](https://favicon.yandex.net/favicon/mail.ru)](https://mail.ru/) [Mail.Ru Group](https://mail.ru/)
 
@@ -92,6 +102,20 @@
 1. [![](https://favicon.yandex.net/favicon/jvetrau.com)](https://jvetrau.com/unification-1/) [Унификация дизайна: Фреймворк Mail.Ru Group для мобильного веба](https://jvetrau.com/unification-1/)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/mailru/blog/333510/) [Paradigm — дизайн-система Mail.Ru Group, часть 1: визуальный язык](https://habr.com/ru/company/mailru/blog/333510/)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=wocb6FHZ0Bw) [Зубанов Костя – Развитие дизайн-системы Mail.ru Paradigm](https://www.youtube.com/watch?v=wocb6FHZ0Bw)
+
+---
+
+## [![](https://favicon.yandex.net/favicon/rambler.ru)](https://rambler.ru/) [Rambler Group](https://www.rambler.ru/)
+
+<sup>[Содержание](#содержание)</sup>
+
+[![Rambler Group](img/design-systems/ratio.png)](https://ui-kit.rambler.ru)
+
+**Название ДС:** [Ratio](https://ui-kit.rambler.ru)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/rambler-digital-solutions/rambler-ui) [Rambler UI](https://github.com/rambler-digital-solutions/rambler-ui) - библиотека компонентов
+1. [![](https://favicon.yandex.net/favicon/brand.rambler.ru)](https://brand.rambler.ru/) [Бренд Рамблера](https://brand.rambler.ru/)
 
 ---
 
