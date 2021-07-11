@@ -39,6 +39,7 @@
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/Raiffeisen-DGTL/ViennaUI) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI) - библиотека компонентов
 1. [![](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/raiffeisenbank/news/t/560180/) [Design System Community Meetup 3/06: видео и материалы встречи](https://habr.com/ru/company/raiffeisenbank/news/t/560180/)
 
 ## [![](https://favicon.yandex.net/favicon/ivi.ru)](https://www.ivi.ru/) [IVI](https://www.ivi.ru/)
 
