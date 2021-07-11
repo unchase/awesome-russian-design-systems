@@ -18,6 +18,8 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+<a href="https://design.alfabank.ru/" target="_blank"><img width="140" height="140" title="arui-feather" src="img/design-systems/feather.svg" /></a>
+
 **Название ДС:** [Feather](https://design.alfabank.ru/)
 
 :book: **Дополнительные ссылки и материалы:** 
