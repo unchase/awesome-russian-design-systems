@@ -22,6 +22,7 @@
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=2Mp6DD-gUjU) [LBMM #4 - Я. Саверин, В. Галахов, Собственная система прототипирования на основе веб-компонентов](https://www.youtube.com/watch?v=2Mp6DD-gUjU)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=n8WggChqu0s) [Дизайн-команда Альфа-Банк, внутренние и внешние проекты – Настя Попова (maildesignfriends)](https://www.youtube.com/watch?v=n8WggChqu0s)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/alfa/blog/492010/) [Тёмная сторона дизайн-системы и что с ней делать](https://habr.com/ru/company/alfa/blog/492010/)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=UuOU_dI0Ne0) [Бренд-команда Альфа-банка](https://www.youtube.com/watch?v=UuOU_dI0Ne0)
 
 ---
 
@@ -112,6 +113,7 @@
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/Raiffeisen-DGTL/ViennaUI) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI) - библиотека компонентов
 1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/raiffeisenbank/news/t/560180/) [Design System Community Meetup 3/06: видео и материалы встречи](https://habr.com/ru/company/raiffeisenbank/news/t/560180/)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=4Hni1ySWLXQ) [Бренд- и дизайн-команда Райффайзенбанка](https://www.youtube.com/watch?v=4Hni1ySWLXQ)
 
 ---
 
@@ -134,6 +136,7 @@
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=5vI1mA-fswM) [Сбер – зачем дизайнерам сайт о дизайне. Ярослав Сизов (maildesignfriends)](https://www.youtube.com/watch?v=5vI1mA-fswM)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=pq9dYUGl2EA) [Сбер × AIC](https://www.youtube.com/watch?v=pq9dYUGl2EA)
 
 ---
 
@@ -150,6 +153,7 @@
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/tinkoff/blog/339660/) [Создание Tinkoff Design System. UI Kit, версионирование и витрина компонентов](https://habr.com/ru/company/tinkoff/blog/339660/)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=TiarpReoCAU) [Команда Tinkoff – Есть ли дизайн в Тинькофф?](https://www.youtube.com/watch?v=TiarpReoCAU)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=Jmfa1pCg5a4) [Дизайн-система Tinkoff.ru / Никита Прилепский (Tinkoff.ru)](https://www.youtube.com/watch?v=Jmfa1pCg5a4)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=0cL1KebEi4Y) [Дизайн-команда Тинькофф Инвестиции](https://www.youtube.com/watch?v=0cL1KebEi4Y)
 
 ---
 
