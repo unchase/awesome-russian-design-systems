@@ -260,11 +260,9 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-Этот проект существует благодаря [всем людям](https://github.com/unchase/awesome-russian-design-systems/graphs/contributors), которые вносят свой вклад.
+Этот проект существует благодаря всем людям, которые вносят свой вклад:
 
-<p align="center">
-  <a href="https://github.com/unchase"><img width="30" src="img/contributors/unchase.jpg"></a>
-</p>
+[![contributors](https://contributors-img.web.app/image?repo=unchase/awesome-russian-design-systems)](https://github.com/unchase/awesome-russian-design-systems/graphs/contributors)
 
 Если у вас есть желание помочь с наполнением или актуализацией этого репозитория, пожалуйста, ознакомьтесь с информацией в файле [CONTRIBUTING.md](CONTRIBUTING.md).
 
