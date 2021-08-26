@@ -191,6 +191,14 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/b2b-center.ru)](https://www.b2b-center.ru) [B2B-Center](https://www.b2b-center.ru)
+
+[![B2B-Center](img/design-systems/b2b-center.png)](https://cds.b2b-center.ru/)
+
+**Название ДС:** [Central Design System](https://cds.b2b-center.ru/)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/delivery-club.ru)](https://www.delivery-club.ru/moscow) [Delivery Club](https://www.delivery-club.ru/moscow)
 
 [![Delivery Club](img/design-systems/deliveryclub.png)](http://delivery-club.design/)
