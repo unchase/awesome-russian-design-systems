@@ -134,6 +134,7 @@
 1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu) [Прогуляться улочками Vienna: как мы создали свою дизайн-систему](https://vc.ru/design/90566-progulyatsya-ulochkami-vienna-kak-my-sozdali-svoyu-dizayn-sistemu)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/raiffeisenbank/news/t/560180/) [Design System Community Meetup 3/06: видео и материалы встречи](https://habr.com/ru/company/raiffeisenbank/news/t/560180/)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=4Hni1ySWLXQ) [Бренд- и дизайн-команда Райффайзенбанка](https://www.youtube.com/watch?v=4Hni1ySWLXQ)
+1. [Просто и чётко: как и зачем Райффайзенбанк создал собственную бренд-систему](https://www.cossa.ru/special/finance/289639)
 
 ---
 
