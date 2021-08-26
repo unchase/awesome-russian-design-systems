@@ -37,6 +37,18 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/vk.com)](https://vk.com) [ВКонтакте](https://vk.com)
+
+[![МТС](img/design-systems/vk.png)](https://www.figma.com/@vk)
+
+**Название ДС:** [Ссылка](https://www.figma.com/@vk)
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/VKCOM/VKUI) [VKUI](https://github.com/VKCOM/VKUI) - библиотека компонентов ([Сайт](https://vkcom.github.io/VKUI))
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/vk/blog/501934/) [Публикуем дизайн-библиотеки компонентов VKUI в Figma](https://habr.com/ru/company/vk/blog/501934/)
+
+---
+
 ## Дизайн Государственных Систем
 
 [![Дизайн Государственных Систем](img/design-systems/gov.png)](http://gov.design/)
