@@ -91,6 +91,14 @@
 
 ---
 
+## [![](https://favicon.yandex.net/favicon/itmo.ru)](https://itmo.ru/ru/) [ИТМО](https://itmo.ru/ru/)
+
+[![МТС](img/design-systems/itmo.png)](https://design-system.itmo.ru/)
+
+**Название ДС:** [Ссылка](https://design-system.itmo.ru/)
+
+---
+
 ## [![](https://favicon.yandex.net/favicon/gazprom-neft.ru)](https://www.gazprom-neft.ru/) [ПАО «Газпром нефть»](https://www.gazprom-neft.ru/)
 
 [![ПАО «Газпром нефть»](img/design-systems/consta.png)](https://consta.gazprom-neft.ru/)
