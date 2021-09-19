@@ -289,7 +289,9 @@
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/semrush/intergalactic) [Intergalactic](https://github.com/semrush/intergalactic) - библиотека компонентов
 1. [![Figma](https://favicon.yandex.net/favicon/figma.com)](https://www.figma.com/@semrush) [Semrush в Figma](https://www.figma.com/@semrush)
-1. 
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=RFSeAIM7HM8) [Юлия Мнижек - Не кричи на меня! Как успокоить интерфейс? | GeekPicnic 2019 | HARD IT](https://www.youtube.com/watch?v=RFSeAIM7HM8)
+1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=CoN82sBhCqQ) [О дизайн-системе Семраш с Антоном Дуканичем](https://www.youtube.com/watch?v=CoN82sBhCqQ)
+1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/semrush/239438-kak-pereehat-so-sketch-na-figma-opyt-semrush) [Как переехать со Sketch на Figma. Опыт Semrush](https://vc.ru/semrush/239438-kak-pereehat-so-sketch-na-figma-opyt-semrush)
 
 ---
 
