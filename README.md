@@ -14,7 +14,7 @@
 
 <a href="https://design.alfabank.ru/" target="_blank"><img width="140" height="140" title="arui-feather" src="img/design-systems/feather.svg" /></a>
 
-**Название ДС:** [Feather](https://design.alfabank.ru/)
+**Название ДС:** [Feather](https://design.alfabank.ru/) - Дизайн-команда одного из ведущих банков
 
 :book: **Дополнительные ссылки и материалы:** 
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/alfa-laboratory/arui-feather) [arui-feather](https://github.com/alfa-laboratory/arui-feather) - библиотека компонентов
@@ -30,7 +30,7 @@
 
 [![АО «БАРС Груп»](img/design-systems/buix.png)](https://design.bars.group/)
 
-**Название ДС:** [BIUX](https://design.bars.group/)
+**Название ДС:** [BIUX](https://design.bars.group/) - Дизайн-команда крупного федерального разработчика работает над унификацией продуктов для государства и бизнеса
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup) [Разработка своей дизайн-системы. Опыт «БАРС Груп»](https://vc.ru/design/58924-razrabotka-svoey-dizayn-sistemy-opyt-bars-grup)
@@ -39,13 +39,14 @@
 
 ## [![](https://favicon.yandex.net/favicon/vk.com)](https://vk.com) [ВКонтакте](https://vk.com)
 
-[![МТС](img/design-systems/vk.png)](https://www.figma.com/@vk)
+[![ВКонтакте](img/design-systems/vk.png)](https://www.figma.com/@vk)
 
-**Название ДС:** [Ссылка](https://www.figma.com/@vk)
+**Название ДС:** [Ссылка](https://www.figma.com/@vk) - Крупнейшая отечественная социальная сеть
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/VKCOM/VKUI) [VKUI](https://github.com/VKCOM/VKUI) - библиотека компонентов ([Сайт](https://vkcom.github.io/VKUI))
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/vk/blog/501934/) [Публикуем дизайн-библиотеки компонентов VKUI в Figma](https://habr.com/ru/company/vk/blog/501934/)
+1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/vk/blog/449720/) [Как оседлать радугу: история создания тёмной темы](https://habr.com/ru/company/vk/blog/449720/)
 
 ---
 
@@ -53,7 +54,7 @@
 
 [![Дизайн Государственных Систем](img/design-systems/gov.png)](http://gov.design/)
 
-**Название ДС:** [Ссылка](http://gov.design/)
+**Название ДС:** [Ссылка](http://gov.design/) - Единая платформа для сайтов государственных органов и учреждений
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/govdesign) [govdesign](https://github.com/govdesign)
@@ -66,7 +67,7 @@
 
 [![Контур](img/design-systems/kontur.png)](https://guides.kontur.ru/)
 
-**Название ДС:** [КонтурГайды](https://guides.kontur.ru/)
+**Название ДС:** [КонтурГайды](https://guides.kontur.ru/) - Отечественная онлайн-бухгалтерия
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/skbkontur/retail-ui) [React UI](https://github.com/skbkontur/retail-ui) - библиотека компонентов
@@ -105,7 +106,7 @@
 
 ## [![](https://favicon.yandex.net/favicon/itmo.ru)](https://itmo.ru/ru/) [ИТМО](https://itmo.ru/ru/)
 
-[![МТС](img/design-systems/itmo.png)](https://design-system.itmo.ru/)
+[![ИТМО](img/design-systems/itmo.png)](https://design-system.itmo.ru/)
 
 **Название ДС:** [Ссылка](https://design-system.itmo.ru/)
 
@@ -115,19 +116,22 @@
 
 [![ПАО «Газпром нефть»](img/design-systems/consta.png)](https://consta.gazprom-neft.ru/)
 
-**Название ДС:** [Consta](https://consta.gazprom-neft.ru/)
+**Название ДС:** [Consta](https://consta.gazprom-neft.ru/) - Дизайн-система технологического лидера нефтегазового рынка России
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/gazprom-neft/consta-uikit) [Consta](https://github.com/gazprom-neft/consta-uikit) - библиотека компонентов
 1. [Дизайн-система Consta](https://consta-uikit.vercel.app)
+1. [![Figma](https://favicon.yandex.net/favicon/figma.com)](https://www.figma.com/@consta) [Consta в Figma](https://www.figma.com/@consta)
+1. [![](https://favicon.yandex.net/favicon/web-standards.ru)](https://web-standards.ru/podcast/272/) [Chrome 89 и DevTools, релизы и приватность, история веба, цвета из спеки, дизайн-система Consta](https://web-standards.ru/podcast/272/)
+1. [Дизайн-система Consta](https://digital.gazprom-neft.ru/about-project?id=consta)
 
 ---
 
 ## [![](https://favicon.yandex.net/favicon/raiffeisen.ru)](https://www.raiffeisen.ru/) [Райффайзенбанк](https://www.raiffeisen.ru/)
 
-[![Vienna](img/design-systems/vienna.webp)](https://raif-brand.ru/)
+[![Райффайзенбанк](img/design-systems/vienna.webp)](https://raif-brand.ru/)
 
-**Название ДС:** [Vienna](https://raif-brand.ru/)
+**Название ДС:** [Vienna](https://raif-brand.ru/) - Дизайн-система одного из заметных российских банков
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/Raiffeisen-DGTL/ViennaUI) [ViennaUI](https://github.com/Raiffeisen-DGTL/ViennaUI) - библиотека компонентов
@@ -135,6 +139,7 @@
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/raiffeisenbank/news/t/560180/) [Design System Community Meetup 3/06: видео и материалы встречи](https://habr.com/ru/company/raiffeisenbank/news/t/560180/)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=4Hni1ySWLXQ) [Бренд- и дизайн-команда Райффайзенбанка](https://www.youtube.com/watch?v=4Hni1ySWLXQ)
 1. [Просто и чётко: как и зачем Райффайзенбанк создал собственную бренд-систему](https://www.cossa.ru/special/finance/289639)
+1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/195932-kak-bystro-sozdat-i-bezboleznenno-vnedrit-bolshoy-nabor-ikonok-dlya-cifrovyh-produktov-i-servisov-opyt-rayffayzenbanka) [Как быстро создать и безболезненно внедрить большой набор иконок для цифровых продуктов и сервисов: опыт Райффайзенбанка](https://vc.ru/design/195932-kak-bystro-sozdat-i-bezboleznenno-vnedrit-bolshoy-nabor-ikonok-dlya-cifrovyh-produktov-i-servisov-opyt-rayffayzenbanka)
 
 ---
 
@@ -142,7 +147,7 @@
 
 [![Ростелеком](img/design-systems/rostelekom.png)](https://design.rt.ru/preview)
 
-**Название ДС:** [Ссылка](https://design.rt.ru/preview)
+**Название ДС:** [Ссылка](https://design.rt.ru/preview) - Один из крупнейших телекоммов
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/rostelecom/blog/522596/) [Свободы и ограничения дизайн-систем](https://habr.com/ru/company/rostelecom/blog/522596/)
@@ -182,7 +187,7 @@
 
 [![Яндекс](img/design-systems/bem.png)](https://ru.bem.info/)
 
-**Название ДС:** [БЭМ](https://ru.bem.info/)
+**Название ДС:** [БЭМ](https://ru.bem.info/) - Платформа от создателей БЭМ для унификации продуктов компании
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/bemdesign) [BEM](https://github.com/bemdesign) - библиотека компонентов
@@ -196,7 +201,7 @@
 
 [![B2B-Center](img/design-systems/b2b-center.png)](https://cds.b2b-center.ru/)
 
-**Название ДС:** [Central Design System](https://cds.b2b-center.ru/)
+**Название ДС:** [Central Design System](https://cds.b2b-center.ru/) - Отечественная площадка торгов для бизнеса
 
 ---
 
@@ -226,7 +231,7 @@
 
 [![IVI](img/design-systems/ivi.jpeg)](https://design.ivi.ru/)
 
-**Название ДС:** [Ссылка](https://design.ivi.ru/)
+**Название ДС:** [Ссылка](https://design.ivi.ru/) - Кросплатформенная версия дизайн-системы от команды онлайн-кинотеатра
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![](https://favicon.yandex.net/favicon/design.ivi.ru)](https://design.ivi.ru/links/) [Статьи и доклады](https://design.ivi.ru/links/)
@@ -237,7 +242,7 @@
 
 [![Mail.Ru Group](img/design-systems/mail.ru.webp)](https://design.mail.ru/)
 
-**Название ДС:** [Paradigm](https://design.mail.ru/)
+**Название ДС:** [Paradigm](https://design.mail.ru/) - Портальная дизайн-команда постепенно унифицирует продукты
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![](https://favicon.yandex.net/favicon/jvetrau.com)](https://jvetrau.com/uxstrategy-1/) [UX-стратегия на практике. Часть 1 — Фреймворк](https://jvetrau.com/uxstrategy-1/)
@@ -246,6 +251,7 @@
 1. [![](https://favicon.yandex.net/favicon/jvetrau.com)](https://jvetrau.com/unification-1/) [Унификация дизайна: Фреймворк Mail.Ru Group для мобильного веба](https://jvetrau.com/unification-1/)
 1. [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/mailru/blog/333510/) [Paradigm — дизайн-система Mail.Ru Group, часть 1: визуальный язык](https://habr.com/ru/company/mailru/blog/333510/)
 1. [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=wocb6FHZ0Bw) [Зубанов Костя – Развитие дизайн-системы Mail.ru Paradigm](https://www.youtube.com/watch?v=wocb6FHZ0Bw)
+1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/250151-paradigm-2-0-kak-my-pereosmyslili-dizayn-sistemu-mail-ru) [Paradigm 2.0 — как мы переосмыслили дизайн-систему Mail.ru](https://vc.ru/design/250151-paradigm-2-0-kak-my-pereosmyslili-dizayn-sistemu-mail-ru)
 
 ---
 
@@ -265,12 +271,25 @@
 
 [![Rambler Group](img/design-systems/ratio.png)](https://ui-kit.rambler.ru)
 
-**Название ДС:** [Ratio](https://ui-kit.rambler.ru)
+**Название ДС:** [Ratio](https://ui-kit.rambler.ru) - Дизайн-команда одного из крупнейших отечественных порталов
 
 :book: **Дополнительные ссылки и материалы:**
 1. [![GitHub](img/favicons/github.com.png)](https://github.com/rambler-digital-solutions/rambler-ui) [Rambler UI](https://github.com/rambler-digital-solutions/rambler-ui) - библиотека компонентов
 1. [![](https://favicon.yandex.net/favicon/brand.rambler.ru)](https://brand.rambler.ru/) [Бренд Рамблера](https://brand.rambler.ru/)
 1. [![VC.ru](https://favicon.yandex.net/favicon/vc.ru)](https://vc.ru/design/28213-razrabotka-edinoy-dizayn-sistemy-opyt-ramblera) [Разработка единой дизайн-системы — опыт «Рамблера»](https://vc.ru/design/28213-razrabotka-edinoy-dizayn-sistemy-opyt-ramblera)
+
+---
+
+## [![](https://favicon.yandex.net/favicon/ru.semrush.com)](https://ru.semrush.com/) [Semrush](https://ru.semrush.com/)
+
+[![Semrush](img/design-systems/semrush.png)](https://i.semrush.com/)
+
+**Название ДС:** [Intergalactic](https://i.semrush.com/) - Глобальная онлайн-платформа для интернет-маркетологов
+
+:book: **Дополнительные ссылки и материалы:**
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/semrush/intergalactic) [Intergalactic](https://github.com/semrush/intergalactic) - библиотека компонентов
+1. [![Figma](https://favicon.yandex.net/favicon/figma.com)](https://www.figma.com/@semrush) [Semrush в Figma](https://www.figma.com/@semrush)
+1. 
 
 ---
 
