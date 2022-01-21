@@ -119,7 +119,7 @@
 **Название ДС:** [Consta](https://consta.gazprom-neft.ru/) - Дизайн-система технологического лидера нефтегазового рынка России
 
 :book: **Дополнительные ссылки и материалы:**
-1. [![GitHub](img/favicons/github.com.png)](https://github.com/gazprom-neft/consta-uikit) [Consta](https://github.com/gazprom-neft/consta-uikit) - библиотека компонентов
+1. [![GitHub](img/favicons/github.com.png)](https://github.com/consta-design-system/uikit) [Consta](https://github.com/gazprom-neft/consta-uikit) - библиотека компонентов
 1. [Дизайн-система Consta](https://consta-uikit.vercel.app)
 1. [![Figma](https://favicon.yandex.net/favicon/figma.com)](https://www.figma.com/@consta) [Consta в Figma](https://www.figma.com/@consta)
 1. [![](https://favicon.yandex.net/favicon/web-standards.ru)](https://web-standards.ru/podcast/272/) [Chrome 89 и DevTools, релизы и приватность, история веба, цвета из спеки, дизайн-система Consta](https://web-standards.ru/podcast/272/)
